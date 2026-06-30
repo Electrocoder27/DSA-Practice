@@ -135,6 +135,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
@@ -176,6 +177,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0720-longest-word-in-dictionary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0944-delete-columns-to-make-sorted) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -212,6 +214,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |

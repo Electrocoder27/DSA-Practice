@@ -1,0 +1,13 @@
+1class Solution {
+2    public int maxValidPairSum(int[] nums, int k) {
+3        int maxsum = 0;
+4        int n = nums.length ;
+5        int maxleft = nums[0] ;
+6        for(int j =k;j<n;j++){
+7            maxleft = Math.max(maxleft,nums[j-k]) ;
+8
+9            maxsum = Math.max(maxsum,maxleft+nums[j]) ;
+10        }
+11        return maxsum ;
+12    }
+13}

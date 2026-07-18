@@ -174,6 +174,7 @@
 | [0409-longest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0720-longest-word-in-dictionary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0944-delete-columns-to-make-sorted) |
@@ -371,6 +372,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0696-count-binary-substrings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |

@@ -1,0 +1,32 @@
+1class Solution {
+2    public List<List<Integer>> aggregateTimeSeries(int[][] series1, int[][] series2) {
+3        List<List<Integer>> res = new ArrayList<>() ;
+4        int n = series1.length ;
+5        int m = series2.length ;
+6        int i =0;
+7        int j =0;
+8        while(i<n || j <m){
+9            int t1 = (i<n) ? series1[i][0]:Integer.MAX_VALUE ;
+10            int t2 = (j<m)? series2[j][0]:Integer.MAX_VALUE ;
+11
+12            int currt = Math.min(t1,t2) ;
+13
+14            int val1 = 0;
+15            if(i<n){
+16                val1 = series1[i][1] ;
+17                if(series1[i][0] == currt){
+18                    i++;
+19                }
+20            }
+21            int val2 = 0;
+22            if(j<m){
+23                val2 = series2[j][1] ;
+24                if(series2[j][0] == currt){
+25                   j++;
+26                }
+27            }
+28            res.add(Arrays.asList(currt,(val1+val2))) ;
+29        }
+30        return res ;
+31    }
+32}

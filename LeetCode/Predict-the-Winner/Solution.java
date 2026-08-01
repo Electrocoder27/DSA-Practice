@@ -1,16 +1,8 @@
-class Solution {
-    public boolean predictTheWinner(int[] nums) {
-        int n = nums.length;
-        int[][] dp = new int[n][n];
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = nums[i];
-        }
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-                dp[i][j] = Math.max(nums[i] - dp[i+1][j], nums[j] - dp[i][j-1]);
-            }
-        }
-        return dp[0][n-1] >= 0;
-    }
-}
+[8023419, 12, 65, 0, 3, 91823, 77]
+[448201]
+[9, 563, 18, 90213, 4, 76, 2, 591, 11, 33]
+[71, 0, 8, 351, 99, 46, 2309, 5, 14]
+[82, 1, 604]
+[5, 33, 9102, 18, 74, 2, 665]
+[100, 3, 41, 17, 85, 29, 6, 12, 50, 4, 88]
+[2, 71, 9, 314, 5]

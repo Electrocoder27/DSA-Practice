@@ -149,6 +149,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
@@ -204,6 +205,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -236,6 +238,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |

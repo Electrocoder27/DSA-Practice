@@ -202,6 +202,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -269,6 +270,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2126-destroying-asteroids) |
@@ -309,6 +311,7 @@
 | [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -669,6 +672,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |

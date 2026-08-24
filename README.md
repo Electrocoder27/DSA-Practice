@@ -52,6 +52,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
@@ -134,6 +135,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -310,6 +312,7 @@
 | [1390-four-divisors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
@@ -355,6 +358,7 @@
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -667,17 +671,20 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |

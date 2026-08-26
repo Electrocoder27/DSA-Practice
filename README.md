@@ -631,6 +631,7 @@
 | [0584-find-customer-referee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1683-invalid-tweets) |
 ## Monotonic Stack

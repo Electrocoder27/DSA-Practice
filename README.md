@@ -21,6 +21,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -122,6 +123,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
@@ -462,6 +464,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
@@ -701,4 +704,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

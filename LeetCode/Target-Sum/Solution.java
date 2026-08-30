@@ -1,21 +1,16 @@
-class Solution {
-    public int findTargetSumWays(int[] nums, int target) {
-        int sum =0;
-        for(int num: nums) {
-            sum += num ;
-        }
-        if((target+sum) %2 != 0 || sum<Math.abs(target)) { // agar target aur sum ka sum odd hua toh non integer sum ayega..........
-            return 0 ;
-        }
-        int subset = (target+sum)/2 ;
-        int dp[] = new int[subset+1] ;
-        dp[0] = 1;// only one way to have subset sum 0..............
-
-        for(int num: nums) {
-            for(int j = subset;j>=num;j--) {
-                dp[j] += dp[j-num] ;// addition with adjacent ones...........
-            }
-        }
-        return dp[subset] ;
-    }
-}
+[1,0]
+1
+[100,100]
+-300
+[12,25,42,49,41,15,22,34,28,31]
+35
+[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]
+1
+[3,2,3,5,7,11,13,17,19,23,29,2,7,9,13,27,31,37,47,53]
+107
+[0,5,22,39,30,5,40,23,47,43,19,36,10,28,46,14,11,5,50,41]
+48
+[30,29,48,14,29,4,31,12,40,13,30,1,5,32,16,17,13,20,41,38]
+9
+[3,2,3,5,7,11,13,17,19,23,29,2,107,109,113,127,131,137,47,53]
+4

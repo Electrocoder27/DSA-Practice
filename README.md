@@ -95,6 +95,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -258,6 +259,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3731-find-missing-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -405,6 +407,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
@@ -444,6 +447,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Brainteaser
 |  |
 | ------- |
@@ -477,6 +481,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |

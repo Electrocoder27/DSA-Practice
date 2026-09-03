@@ -110,6 +110,7 @@
 | [3838-weighted-word-mapping](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |

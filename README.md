@@ -19,6 +19,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0312-burst-balloons) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0166-fraction-to-recurring-decimal) |
+| [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0720-longest-word-in-dictionary) |
@@ -389,6 +391,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
@@ -493,6 +496,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0720-longest-word-in-dictionary](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0720-longest-word-in-dictionary) |
@@ -738,4 +742,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0518-coin-change-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

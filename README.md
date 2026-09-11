@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
@@ -429,6 +430,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0696-count-binary-substrings) |
@@ -496,6 +498,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0455-assign-cookies) |

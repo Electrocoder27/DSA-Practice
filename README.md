@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
@@ -130,6 +131,7 @@
 | [0120-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |

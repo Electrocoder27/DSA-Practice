@@ -1,66 +1,67 @@
 1class Solution {
-2    private void merge(int [] arr,int l,int mid, int r) {
-3        int [] temp =  new int[r-l+1] ;
-4        int i =l;
-5        int k =0;
-6        int j = mid + 1;
-7        
-8        while(i<=mid && j <=r) {
-9            if(arr[i] < arr[j]) {
-10                temp[k] = arr[i] ;
-11                i++ ;
-12                k++ ;
-13            }
-14            else{
-15                temp[k] = arr[j] ;
-16                k++ ;
-17                j++ ;
-18            }
-19        }
-20        
-21        //if left.........
-22        while(i<= mid) {
-23            temp[k++] = arr[i++] ;
-24        }
-25        while(j<=r) {
-26            temp[k++] = arr[j++] ;
-27        }
-28        
-29        for(k=0,i=l ;k<temp.length;k++,i++) {
-30            arr[i] = temp[k] ;
-31        }
-32    }
-33    private int countpairs(int nums[],int l,int mid,int r) {
-34        int rt = mid + 1;
-35        int ans = 0;
-36
-37        for (int i = l; i <= mid; i++) {
-38            while (rt <= r && (long) nums[i] > 2L * nums[rt]) {
-39                rt++;
-40            }
-41            ans += (rt - (mid + 1));
-42        }
-43        return ans;
-44    }
-45    private int mergeSort(int arr[], int l, int r) {
-46        // code here
-47        int count = 0;
-48        int mid = l + (r-l)/2 ;
-49        
-50        if(l>=r) {
-51            return count;
-52        }
-53        
-54        count += mergeSort(arr,l,mid) ;
-55        count += mergeSort(arr,mid+1,r) ;
-56        count += countpairs(arr,l,mid,r) ;
-57        merge(arr,l,mid,r) ;
-58
-59        return count ;
-60    }
-61    public int reversePairs(int[] nums) {
-62        int ans = mergeSort(nums,0,nums.length-1) ;
+2    public int reversePairs(int[] nums) {
+3        if (nums == null || nums.length < 2) return 0;
+4        return mergeSort(nums, 0, nums.length - 1);
+5    }
+6
+7    private int mergeSort(int[] nums, int left, int right) {
+8        if (left >= right) return 0;
+9
+10        int mid = left + (right - left) / 2;
+11        int count = 0;
+12
+13        // Count pairs in left half and right half recursively
+14        count += mergeSort(nums, left, mid);
+15        count += mergeSort(nums, mid + 1, right);
+16
+17        // Count cross pairs between left and right halves
+18        count += countPairs(nums, left, mid, right);
+19
+20        // Merge two sorted halves
+21        merge(nums, left, mid, right);
+22
+23        return count;
+24    }
+25
+26    // --- LOGIC FOR COUNT PAIRS ---
+27    private int countPairs(int[] nums, int left, int mid, int right) {
+28        int count = 0;
+29        int j = mid + 1;
+30
+31        for (int i = left; i <= mid; i++) {
+32            // Move pointer j in right half as long as condition holds
+33            while (j <= right && (long) nums[i] > 2L * nums[j]) {
+34                j++;
+35            }
+36            // All elements from mid + 1 up to j - 1 satisfy nums[i] > 2 * nums[j]
+37            count += (j - (mid + 1));
+38        }
+39
+40        return count;
+41    }
+42
+43    // Standard merge operation
+44    private void merge(int[] nums, int left, int mid, int right) {
+45        int n1 = mid - left + 1;
+46        int n2 = right - mid;
+47
+48        int[] L = new int[n1];
+49        int[] R = new int[n2];
+50
+51        for (int i = 0; i < n1; i++) L[i] = nums[left + i];
+52        for (int j = 0; j < n2; j++) R[j] = nums[mid + 1 + j];
+53
+54        int i = 0, j = 0, k = left;
+55
+56        while (i < n1 && j < n2) {
+57            if (L[i] <= R[j]) {
+58                nums[k++] = L[i++];
+59            } else {
+60                nums[k++] = R[j++];
+61            }
+62        }
 63
-64        return  ans ;
-65    }
-66}
+64        while (i < n1) nums[k++] = L[i++];
+65        while (j < n2) nums[k++] = R[j++];
+66    }
+67}

@@ -57,6 +57,7 @@
 | [1390-four-divisors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -380,6 +381,7 @@
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2054-two-best-non-overlapping-events) |

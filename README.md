@@ -225,6 +225,7 @@
 | [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -648,6 +649,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
@@ -782,4 +784,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

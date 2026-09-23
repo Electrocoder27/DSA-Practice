@@ -129,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0062-unique-paths) |
@@ -209,6 +210,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0166-fraction-to-recurring-decimal) |
@@ -455,6 +457,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0018-4sum) |
@@ -788,4 +791,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

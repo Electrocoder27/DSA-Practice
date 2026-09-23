@@ -129,7 +129,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0062-unique-paths) |
@@ -210,7 +209,6 @@
 ## String
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0166-fraction-to-recurring-decimal) |
@@ -230,6 +228,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
@@ -267,6 +266,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1386-cinema-seat-allocation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
@@ -422,6 +422,7 @@
 | [0229-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2029-stone-game-ix) |
 | [3583-count-special-triplets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3583-count-special-triplets) |
 ## Number Theory
@@ -457,7 +458,6 @@
 ## Two Pointers
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0018-4sum) |
@@ -791,8 +791,4 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Manacher
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

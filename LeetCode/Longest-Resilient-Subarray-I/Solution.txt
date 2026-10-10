@@ -1,0 +1,38 @@
+1class Solution {
+2    private int gcd(int a,int b){
+3        while(b!=0){
+4            int temp = b;
+5            b = a%b ;
+6            a = temp ;
+7        }
+8        return a ;
+9    }
+10    public int resilientSubarray(int[] nums, int k) {
+11        int n = nums.length ;
+12        int len = 0;
+13
+14        int i =0;
+15        while(i<n){
+16            int r = nums[i] %k ;
+17            int j =i;
+18
+19            while(j<n && nums[j] %k ==r) {
+20                j++;
+21            }
+22
+23            int M = j-i ;
+24
+25            if(r==0){
+26                len = Math.max(len,M) ;
+27            }
+28            else{
+29                int g = gcd(r,k) ;
+30                int p = k/g ;
+31                int valid = 1+((M-1)/p)*p;
+32                len = Math.max(len,valid) ;
+33            }
+34            i =j ;
+35        }
+36        return len ;
+37    }
+38}

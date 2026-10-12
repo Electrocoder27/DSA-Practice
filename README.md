@@ -86,6 +86,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -629,6 +630,7 @@
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |

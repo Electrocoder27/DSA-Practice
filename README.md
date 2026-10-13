@@ -714,6 +714,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -89,6 +89,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -279,6 +280,7 @@
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -316,6 +318,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2663-distribute-money-to-maximum-children) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -451,6 +454,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion

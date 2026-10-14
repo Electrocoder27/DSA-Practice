@@ -3,4 +3,4 @@
 3FROM
 4    Courses AS c
 5GROUP BY class 
-6HAVING COUNT(student) >= 5 ;
+6HAVING COUNT(*) >= 5 ;

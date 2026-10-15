@@ -90,6 +90,7 @@
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -281,6 +282,7 @@
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -611,12 +613,14 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union Find

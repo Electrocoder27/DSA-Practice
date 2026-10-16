@@ -708,6 +708,7 @@
 | [0584-find-customer-referee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1148-article-views-i) |

@@ -112,6 +112,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -291,6 +292,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3731-find-missing-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3731-find-missing-elements) |
@@ -558,6 +560,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3731-find-missing-elements) |

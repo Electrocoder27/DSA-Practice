@@ -228,6 +228,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0720-longest-word-in-dictionary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -673,6 +674,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
@@ -817,5 +819,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@
 | [0410-split-array-largest-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
@@ -352,6 +353,7 @@
 | [0319-bulb-switcher](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
 | [0840-magic-squares-in-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0840-magic-squares-in-grid) |

@@ -90,6 +90,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -190,6 +191,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2747-count-zero-request-servers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2747-count-zero-request-servers) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -289,6 +291,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -574,6 +577,7 @@
 | [2126-destroying-asteroids](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
+| [2747-count-zero-request-servers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |

@@ -128,6 +128,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -179,6 +180,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3693-climbing-stairs-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3693-climbing-stairs-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |

@@ -345,6 +345,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sort
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3871-count-commas-in-range-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |

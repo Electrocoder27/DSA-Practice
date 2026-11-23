@@ -56,6 +56,7 @@
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1386-cinema-seat-allocation) |
@@ -373,6 +374,7 @@
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
@@ -437,6 +439,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1872-stone-game-viii) |
@@ -791,6 +794,7 @@
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
 ## Counting Sort
 |  |
@@ -855,4 +859,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1254-number-of-closed-islands) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

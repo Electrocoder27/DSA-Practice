@@ -254,6 +254,7 @@
 | [1927-sum-game](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
